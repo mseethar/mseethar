@@ -2,6 +2,7 @@
 1. WebSockets
 2. WebRTC
 3. Front end development (https://www.youtube.com/watch?v=i75P8-8UACI)
+4. Stress testing a single instance in production
 
 # Topics to explore
 1. How to customize Tomcat and Jetty web containers' config started by Spring boot starters?
