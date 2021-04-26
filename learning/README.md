@@ -5,6 +5,8 @@
 
 # Topics to explore
 1. How to customize Tomcat and Jetty web containers' config started by Spring boot starters?
+   1. How to increase the worker threads size?
 
 # Project ideas
 1. Semantic circuit breaker
+   1. Closing the circuit on specific parameters in the request. For example, close for write operations.
