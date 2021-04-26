@@ -1,4 +1,4 @@
-# Want to lean
+# Want to learn
 1. WebSockets
 2. WebRTC
 3. Front end development (https://www.youtube.com/watch?v=i75P8-8UACI)
