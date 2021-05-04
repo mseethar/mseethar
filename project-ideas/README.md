@@ -8,3 +8,5 @@
     - This service can be used at the public API endpoints
     - Will relieve the individual services from validating the semantics of the request
     - Requests will go through only if these validators allow them
+3. Semantic circuit breaker
+   1. Opening or closing the circuit on specific parameters in the request. For example, close for write operations.
