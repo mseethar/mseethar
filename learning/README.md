@@ -5,6 +5,10 @@
 4. Stress testing a single instance in production
 5. Adaptive fault tolerance
 
+# Learning
+1. Node.js
+2. mongodb, mongoose
+
 # Topics to explore
 1. How to customize Tomcat and Jetty web containers' config started by Spring boot starters?
    1. How to increase the worker threads size?
