@@ -10,5 +10,4 @@
    1. How to increase the worker threads size?
 
 # Project ideas
-1. Semantic circuit breaker
-   1. Opening or closing the circuit on specific parameters in the request. For example, close for write operations.
+  Moved to https://github.com/mseethar/mseethar/blob/main/project-ideas/README.md
