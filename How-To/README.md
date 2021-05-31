@@ -11,9 +11,11 @@ __Note__: The default certificate store password is _changeit_
 ## Delete a certificate from Java certificate store
 > `sudo keytool -delete -alias download.eclipse.org -keystore /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/security/cacerts`
 
-## Set env variables in Windows PowerShell
+## Env variables in Windows PowerShell
+__Setting__ new variable
 > $ $Env:DEBUG = "index,db"  
 > $ $Env:app_password = "*****"  
-> $ $Env:NODE_ENV = "production"
-### Append to an existing environment value
+> $ $Env:NODE_ENV = "production"  
+
+__Appending__ to an existing environment value
 > $Env:Path += ";c:\temp"
