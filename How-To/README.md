@@ -15,3 +15,5 @@ __Note__: The default certificate store password is _changeit_
 > $ $Env:DEBUG = "index,db"  
 > $ $Env:app_password = "*****"  
 > $ $Env:NODE_ENV = "production"
+### Append to an existing environment value
+> $Env:Path += ";c:\temp"
