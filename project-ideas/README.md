@@ -10,3 +10,7 @@
     - Requests will go through only if these validators allow them
 3. Semantic circuit breaker
    1. Opening or closing the circuit on specific parameters in the request. For example, close for write operations.
+4. ESB that can deliver service invocations to the right service and publish the results back by calling the call back endpoint. _[Messaging]_ _[Async]_ _[EventDriven]_
+   1. For example service A creates the request for service B and habds it over to the ESB
+   2. The ESB then takes the request, hits the service B
+   3. Once service B gives a response as a message, the ESB calls the response callback of service A with the response message from service B. 
