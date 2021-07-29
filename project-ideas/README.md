@@ -14,3 +14,6 @@
    1. For example service A creates the request for service B and habds it over to the ESB
    2. The ESB then takes the request, hits the service B
    3. Once service B gives a response as a message, the ESB calls the response callback of service A with the response message from service B. 
+5. Mouse with Finger print scanner
+   1. This can be integrated into one of the FIDO authentication provider.
+   2. A new authentication provider can be implemented as well.
