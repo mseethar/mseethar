@@ -17,3 +17,6 @@
 5. Mouse with Finger print scanner
    1. This can be integrated into one of the FIDO authentication provider.
    2. A new authentication provider can be implemented as well.
+6. Server MUX
+   - When multiple clients ask for the same resource at the same instance, read the resource state once and send it to all the clients
+   - In fact, this is where caching comes into picture. 
