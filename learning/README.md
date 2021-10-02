@@ -11,3 +11,7 @@
 
 # Project ideas
   Moved to https://github.com/mseethar/mseethar/blob/main/project-ideas/README.md
+
+# Wisdom
+  Systems modelled closer to the real world are harder to scale.
+  Systems that scale well are harder to comprehend.
