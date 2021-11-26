@@ -20,3 +20,7 @@
 6. Server MUX
    - When multiple clients ask for the same resource at the same instance, read the resource state once and send it to all the clients
    - In fact, this is where caching comes into picture. 
+7. Implement a containerd service server
+   - Similar to docker
+8. Implement a DevFinOps tool
+   - Should support all Cloud service providers
