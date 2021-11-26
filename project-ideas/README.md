@@ -22,5 +22,6 @@
    - In fact, this is where caching comes into picture. 
 7. Implement a containerd service server
    - Similar to docker
+   - https://medium.com/@Mark.io/how-to-communicate-with-containerd-using-java-f37d349b9ead
 8. Implement a DevFinOps tool
    - Should support all Cloud service providers
