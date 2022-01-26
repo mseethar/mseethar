@@ -25,3 +25,4 @@
    - https://medium.com/@Mark.io/how-to-communicate-with-containerd-using-java-f37d349b9ead
 8. Implement a DevFinOps tool
    - Should support all Cloud service providers
+9. EnglishQL - Support for complex rules
