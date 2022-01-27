@@ -4,18 +4,24 @@ Definite articles in nominative case.
 
 Artikel steht von dem Substantiv.
 
-Maskulin  
+## Maskulin  
 _**Der**_ Mann ist glücklich!  
 _**Der**_ Apfel ist rot!
 
-Feminin  
+## Feminin  
 _**Die**_ Frau trinkt Wein.  
 _**Die**_ Katze ist freundlich.  
 
-Neutral  
+## Neutral  
 _**Das**_ Baby ist süß!  
-_**Das**_ Haus ist groß!
+_**Das**_ Haus ist groß!  
 
-Plural  
+## Plural  
 _**Die**_ Kinder spielen.  
 _**Die**_ Bücher sind bunt.
+
+
+| | Artkel | Example |
+|-|--------|---------|
+| Maskulin | _**Der**_ | Der Mann ist glücklich! |
+
