@@ -4,7 +4,7 @@
 |Nomen|Singular|Plural| | |  
 |-------|---------|-|-|-|  
 |Mann|der Mann|die Männer|der Mann ist groß|?|  
-|Saft|der Saft|die Säfte|Ich trinke Saft|?|  
+|Saft|der Saft|die Säfte|Der Saft ist kalt  Ich trinke Saft|?|  
 
 # Die - Feminin (Nominativ)
 
