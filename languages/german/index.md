@@ -1,4 +1,5 @@
-# Bestimmter Artikel im Nominativ
+# Die Artikel
+## Bestimmter Artikel im Nominativ
 
 Definite articles in nominative case.  
 
@@ -20,8 +21,4 @@ _**Das**_ Haus ist groß!
 _**Die**_ Kinder spielen.  
 _**Die**_ Bücher sind bunt.
 
-
-| | Artkel | Example |
-|-|--------|---------|
-| Maskulin | _**Der**_ | Der Mann ist glücklich! |
-
+### [List](artikel/bestimmte_nominativ.html)
